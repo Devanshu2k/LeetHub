@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Devanshu2k/LeetHub/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Devanshu2k/LeetHub/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Devanshu2k/LeetHub/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -43,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
