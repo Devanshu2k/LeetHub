@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Devanshu2k/LeetHub/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Devanshu2k/LeetHub/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
@@ -44,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Devanshu2k/LeetHub/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Devanshu2k/LeetHub/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
