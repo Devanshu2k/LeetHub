@@ -1,58 +1,47 @@
-class Pair{
-    int node;
-    int dist;
-    Pair(int node,int dist){
-        this.node=node;
-        this.dist=dist;
-    }
-}
 class Solution {
-    public static final int MOD = 1000000007;
-    public List<int[]>[] convert(int[][]roads,int n){
-        List<int[]>[] adj = new ArrayList[n];
-        for(int i=0;i<n;i++)
-            adj[i]= new ArrayList<>();
+    public int countPaths(int n, int[][] roads) {
+        final int MOD = 1_000_000_007;
         
-        for(int[] road:roads){
-            adj[road[0]].add(new int[]{road[1],road[2]});
-            adj[road[1]].add(new int[]{road[0],road[2]});
+        ArrayList<int[]>[] adjList = new ArrayList[n];
+        long[] dist = new long[n];
+        long[] ways = new long[n];
+        PriorityQueue<long[]> pq = new PriorityQueue<>((a,b)-> Long.compare(a[1],b[1]));
+
+        for(int i=0;i<n;i++){
+            adjList[i] = new ArrayList<>();
         }
 
-        return adj;
-    }    
-    public int countPaths(int n, int[][] roads) {
-        List<int[]>[] adj = convert(roads,n);
+        for(int[] road : roads){
+            adjList[road[0]].add(new int[]{road[1], road[2]});
+            adjList[road[1]].add(new int[]{road[0], road[2]});
+        }
 
-        int[] distArray = new int[n];
-        Arrays.fill(distArray,Integer.MAX_VALUE);
-        distArray[0]=0;
+        Arrays.fill(dist, Long.MAX_VALUE);
+        dist[0] = 0;
+        ways[0] = 1;
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b)->a.dist-b.dist);
-        pq.offer(new Pair(0,0));
-
-        int[] ways=new int[n];
-        ways[0]=1;
+        pq.add(new long[]{0,0});
 
         while(!pq.isEmpty()){
-            Pair pair = pq.poll();
-            int node = pair.node;
-            int dist = pair.dist;
-            
-            for(int[] neighbor:adj[node]){
-                int nbor = neighbor[0];
-                int cost = neighbor[1];
-                if(distArray[nbor]>dist+cost){
-                    distArray[nbor] = (dist+cost)%MOD;
-                    ways[nbor]=ways[node];
-                    pq.offer(new Pair(nbor,distArray[nbor]));
+            long[] currPair = pq.remove();
+            int currNode = (int)currPair[0];
+            long currDist = currPair[1];
+
+            for(int[] neighbor : adjList[currNode]){
+
+                if(dist[neighbor[0]] > currDist + neighbor[1]){
+                    dist[neighbor[0]] = dist[currNode] + neighbor[1];
+                    ways[neighbor[0]] = ways[currNode];
+                    pq.add(new long[]{neighbor[0],dist[neighbor[0]]});
                 }
-                else if(distArray[nbor]==dist+cost){
-                   ways[nbor] = (ways[nbor] + ways[node])%MOD;
+                else if(dist[neighbor[0]] == currDist + neighbor[1]){
+                    ways[neighbor[0]] = (ways[neighbor[0]] + ways[currNode]) % MOD;
                 }
             }
         }
 
-      
-        return ways[n-1]%MOD;
+
+        return (int)ways[n-1];
+
     }
 }
