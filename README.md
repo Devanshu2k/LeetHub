@@ -55,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Devanshu2k/LeetHub/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devanshu2k/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Devanshu2k/LeetHub/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devanshu2k/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Devanshu2k/LeetHub/tree/master/0127-word-ladder) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devanshu2k/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devanshu2k/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
