@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Devanshu2k/LeetHub/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/Devanshu2k/LeetHub/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Devanshu2k/LeetHub/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Devanshu2k/LeetHub/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Devanshu2k/LeetHub/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Devanshu2k/LeetHub/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Devanshu2k/LeetHub/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Devanshu2k/LeetHub/tree/master/0871-keys-and-rooms) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devanshu2k/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
