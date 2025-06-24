@@ -16,9 +16,7 @@ class Solution {
 
         for(int i=m-1;i>=0;i--){
             for(int j=n-1;j>=0;j--){
-                minHealthArray[i][j] = Math.min(minHealthArray[i+1][j],minHealthArray[i][j+1])-dungeon[i][j];
-                if(minHealthArray[i][j]<=0)
-                    minHealthArray[i][j]=1;
+                minHealthArray[i][j] = Math.max(1, Math.min(minHealthArray[i+1][j], minHealthArray[i][j+1]) - dungeon[i][j]);
             }
         }
         return minHealthArray[0][0];
