@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/Devanshu2k/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/Devanshu2k/LeetHub/tree/master/0174-dungeon-game) |
+| [1236-n-th-tribonacci-number](https://github.com/Devanshu2k/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devanshu2k/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Devanshu2k/LeetHub/tree/master/0015-3sum) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Devanshu2k/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
