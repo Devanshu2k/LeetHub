@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Devanshu2k/LeetHub/tree/master/0207-course-schedule) |
+| [0543-diameter-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Devanshu2k/LeetHub/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Devanshu2k/LeetHub/tree/master/0801-is-graph-bipartite) |
@@ -135,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
