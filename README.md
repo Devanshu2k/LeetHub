@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Devanshu2k/LeetHub/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devanshu2k/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
+| [0792-binary-search](https://github.com/Devanshu2k/LeetHub/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Devanshu2k/LeetHub/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Devanshu2k/LeetHub/tree/master/1073-number-of-enclaves) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Devanshu2k/LeetHub/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
