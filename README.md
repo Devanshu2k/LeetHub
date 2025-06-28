@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Devanshu2k/LeetHub/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Devanshu2k/LeetHub/tree/master/0684-redundant-connection) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Devanshu2k/LeetHub/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Devanshu2k/LeetHub/tree/master/0207-course-schedule) |
@@ -132,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
