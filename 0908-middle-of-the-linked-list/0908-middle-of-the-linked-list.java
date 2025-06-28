@@ -12,11 +12,13 @@ class Solution {
     public ListNode middleNode(ListNode head) {
         ListNode curr = head;
         ListNode mid = head;
-       
+        int count = 1;
 
-        while(curr!=null && curr.next!=null ){
-            curr = curr.next.next;
-            mid=mid.next;
+        while(curr.next!=null){
+            curr = curr.next;
+            count++;
+            if(count%2==0)
+                mid=mid.next;
         }
 
         return mid;
