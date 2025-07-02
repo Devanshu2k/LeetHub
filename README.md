@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Devanshu2k/LeetHub/tree/master/0015-3sum) |
+| [0073-set-matrix-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/Devanshu2k/LeetHub/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/Devanshu2k/LeetHub/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Devanshu2k/LeetHub/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devanshu2k/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
