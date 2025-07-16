@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Devanshu2k/LeetHub/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Devanshu2k/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Devanshu2k/LeetHub/tree/master/0303-range-sum-query-immutable) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Devanshu2k/LeetHub/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/Devanshu2k/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devanshu2k/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Devanshu2k/LeetHub/tree/master/0127-word-ladder) |
+| [0217-contains-duplicate](https://github.com/Devanshu2k/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devanshu2k/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
