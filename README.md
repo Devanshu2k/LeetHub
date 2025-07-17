@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Devanshu2k/LeetHub/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devanshu2k/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Devanshu2k/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -116,15 +118,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Devanshu2k/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Devanshu2k/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devanshu2k/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Devanshu2k/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Devanshu2k/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devanshu2k/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## String
@@ -245,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Devanshu2k/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
