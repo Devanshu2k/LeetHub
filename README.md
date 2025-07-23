@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Devanshu2k/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devanshu2k/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devanshu2k/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## String
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Devanshu2k/LeetHub/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Devanshu2k/LeetHub/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Devanshu2k/LeetHub/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devanshu2k/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
 | [0874-backspace-string-compare](https://github.com/Devanshu2k/LeetHub/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Devanshu2k/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
