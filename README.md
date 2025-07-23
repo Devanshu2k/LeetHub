@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Devanshu2k/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Devanshu2k/LeetHub/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Devanshu2k/LeetHub/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Devanshu2k/LeetHub/tree/master/0049-group-anagrams) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Devanshu2k/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Devanshu2k/LeetHub/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/Devanshu2k/LeetHub/tree/master/0874-backspace-string-compare) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Devanshu2k/LeetHub/tree/master/0011-container-with-most-water) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Devanshu2k/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Bucket Sort
 |  |
