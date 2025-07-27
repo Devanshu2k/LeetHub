@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Devanshu2k/LeetHub/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Devanshu2k/LeetHub/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Devanshu2k/LeetHub/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Devanshu2k/LeetHub/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Devanshu2k/LeetHub/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Devanshu2k/LeetHub/tree/master/0115-distinct-subsequences) |
 | [0174-dungeon-game](https://github.com/Devanshu2k/LeetHub/tree/master/0174-dungeon-game) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Devanshu2k/LeetHub/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
 ## Greedy
 |  |
