@@ -1,7 +1,6 @@
 class Solution {
     public int carFleet(int target, int[] position, int[] speed) {
         int n = speed.length;
-        int count = 0;
 
         int[][] combined = new int[n][2];
 
@@ -23,11 +22,6 @@ class Solution {
             st.push(temp);
         }
 
-        while(!st.isEmpty()){
-            count++;
-            st.pop();
-        }
-
-        return count;
+        return st.size();
     }
 }
