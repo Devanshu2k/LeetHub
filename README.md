@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Devanshu2k/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Devanshu2k/LeetHub/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Devanshu2k/LeetHub/tree/master/0792-binary-search) |
+| [0883-car-fleet](https://github.com/Devanshu2k/LeetHub/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devanshu2k/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Devanshu2k/LeetHub/tree/master/1036-rotting-oranges) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Devanshu2k/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0883-car-fleet](https://github.com/Devanshu2k/LeetHub/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devanshu2k/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Devanshu2k/LeetHub/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Devanshu2k/LeetHub/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Devanshu2k/LeetHub/tree/master/0874-backspace-string-compare) |
+| [0883-car-fleet](https://github.com/Devanshu2k/LeetHub/tree/master/0883-car-fleet) |
 ## Simulation
 |  |
 | ------- |
@@ -302,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Devanshu2k/LeetHub/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Devanshu2k/LeetHub/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
