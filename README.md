@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Devanshu2k/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Devanshu2k/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Devanshu2k/LeetHub/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devanshu2k/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Devanshu2k/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Devanshu2k/LeetHub/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Devanshu2k/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/Devanshu2k/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Devanshu2k/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devanshu2k/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
@@ -234,12 +236,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Devanshu2k/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Devanshu2k/LeetHub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Devanshu2k/LeetHub/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Devanshu2k/LeetHub/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
