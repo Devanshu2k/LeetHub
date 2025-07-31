@@ -13,18 +13,14 @@ class Solution {
         PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b) -> a.val-b.val);
         ListNode head = new ListNode(-1);
         ListNode node = head;
-        for(ListNode li:lists){
-            ListNode temp = li;
-            while(temp!=null){
-                pq.offer(temp);
-                temp=temp.next;
-            }
-        }
+        for (ListNode li : lists) {
+    if (li != null) pq.offer(li);
+}
         while(!pq.isEmpty()){
             ListNode temp = pq.poll();
             node.next = temp;
             node = node.next;
-            node.next = null;
+            if (temp.next != null) pq.offer(temp.next);
         }
 
         return head.next;
