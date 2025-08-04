@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Devanshu2k/LeetHub/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devanshu2k/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Devanshu2k/LeetHub/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/Devanshu2k/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Devanshu2k/LeetHub/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Devanshu2k/LeetHub/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Devanshu2k/LeetHub/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Devanshu2k/LeetHub/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devanshu2k/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
 | [0874-backspace-string-compare](https://github.com/Devanshu2k/LeetHub/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Devanshu2k/LeetHub/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/Devanshu2k/LeetHub/tree/master/0874-backspace-string-compare) |
 ## Backtracking
 |  |
