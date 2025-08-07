@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Devanshu2k/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshu2k/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Devanshu2k/LeetHub/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Devanshu2k/LeetHub/tree/master/0287-find-the-duplicate-number) |
 ## Design
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devanshu2k/LeetHub/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Devanshu2k/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
 ## Greedy
 |  |
