@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Devanshu2k/LeetHub/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Devanshu2k/LeetHub/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Devanshu2k/LeetHub/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Devanshu2k/LeetHub/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0073-set-matrix-zeroes) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devanshu2k/LeetHub/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Devanshu2k/LeetHub/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Devanshu2k/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
 ## Greedy
