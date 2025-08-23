@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Devanshu2k/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Devanshu2k/LeetHub/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Devanshu2k/LeetHub/tree/master/1073-number-of-enclaves) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Devanshu2k/LeetHub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Devanshu2k/LeetHub/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Depth-First Search
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Devanshu2k/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Devanshu2k/LeetHub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Devanshu2k/LeetHub/tree/master/0451-sort-characters-by-frequency) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Devanshu2k/LeetHub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
