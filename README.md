@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshu2k/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanshu2k/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devanshu2k/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Devanshu2k/LeetHub/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/Devanshu2k/LeetHub/tree/master/0174-dungeon-game) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Devanshu2k/LeetHub/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Devanshu2k/LeetHub/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Devanshu2k/LeetHub/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanshu2k/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/Devanshu2k/LeetHub/tree/master/0174-dungeon-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Devanshu2k/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1236-n-th-tribonacci-number](https://github.com/Devanshu2k/LeetHub/tree/master/1236-n-th-tribonacci-number) |
