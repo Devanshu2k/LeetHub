@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Devanshu2k/LeetHub/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Devanshu2k/LeetHub/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Devanshu2k/LeetHub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Devanshu2k/LeetHub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Devanshu2k/LeetHub/tree/master/0057-insert-interval) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Devanshu2k/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Devanshu2k/LeetHub/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devanshu2k/LeetHub/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Devanshu2k/LeetHub/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Devanshu2k/LeetHub/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Devanshu2k/LeetHub/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanshu2k/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
