@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Devanshu2k/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Devanshu2k/LeetHub/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Devanshu2k/LeetHub/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Devanshu2k/LeetHub/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Devanshu2k/LeetHub/tree/master/0040-combination-sum-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Devanshu2k/LeetHub/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Devanshu2k/LeetHub/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Devanshu2k/LeetHub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Devanshu2k/LeetHub/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Devanshu2k/LeetHub/tree/master/0164-maximum-gap) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devanshu2k/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Devanshu2k/LeetHub/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Devanshu2k/LeetHub/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Devanshu2k/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Devanshu2k/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Devanshu2k/LeetHub/tree/master/0143-reorder-list) |
