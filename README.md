@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Devanshu2k/LeetHub/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Devanshu2k/LeetHub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Devanshu2k/LeetHub/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Devanshu2k/LeetHub/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devanshu2k/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Devanshu2k/LeetHub/tree/master/0412-fizz-buzz) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devanshu2k/LeetHub/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Devanshu2k/LeetHub/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Devanshu2k/LeetHub/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Devanshu2k/LeetHub/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Devanshu2k/LeetHub/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devanshu2k/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Devanshu2k/LeetHub/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Devanshu2k/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
 |  |
