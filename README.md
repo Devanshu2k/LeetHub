@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Devanshu2k/LeetHub/tree/master/0207-course-schedule) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Devanshu2k/LeetHub/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devanshu2k/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devanshu2k/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
