@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Devanshu2k/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Devanshu2k/LeetHub/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Devanshu2k/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Devanshu2k/LeetHub/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Devanshu2k/LeetHub/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Devanshu2k/LeetHub/tree/master/0907-koko-eating-bananas) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Devanshu2k/LeetHub/tree/master/0287-find-the-duplicate-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Devanshu2k/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Devanshu2k/LeetHub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Devanshu2k/LeetHub/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
