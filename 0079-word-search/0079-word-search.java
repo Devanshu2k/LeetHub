@@ -1,42 +1,42 @@
 class Solution {
+    int[] dx = {-1, 0, 1, 0};
+    int[] dy = {0, -1, 0, 1};
+    int m;
+    int n;
+
     public boolean exist(char[][] board, String word) {
-        boolean flag = false;
-        int m = board.length;
-        int n = board[0].length;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(helper(board,word,i,j,0))
+        m = board.length;
+        n = board[0].length;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (helper(board, word, 0, i, j)) {
                     return true;
+                }
             }
         }
         return false;
-
     }
 
-    boolean helper(char[][] board,String word,int i, int j,int k){
-         if(k==word.length()){
+    public boolean helper(char[][] board, String word, int curr, int i, int j) {
+        if (curr == word.length()) {
             return true;
         }
-		if(i>=board.length || j>=board[0].length || i<0 || j<0)
-			return false;
-
-       
-        char temp;
-        if (board[i][j] == word.charAt(k)) {
-            temp = board[i][j];
-            board[i][j] = '#';
-            k++;
-        } else {
+        if (i < 0 || i >= m || j < 0 || j >= n || board[i][j] != word.charAt(curr) || board[i][j]=='#')  {
             return false;
         }
 
-
-        boolean result = helper(board,word,i+1,j,k) || helper(board,word,i-1,j,k) || helper(board,word,i,j+1,k) || helper(board,word,i,j-1,k);
+        char temp = board[i][j];
+        board[i][j] = '#';
     
-
-        board[i][j]=temp;
-        
-        return result;
-
-}
+        for (int k = 0; k < 4; k++) {
+            int nx = i + dx[k];
+            int ny = j + dy[k];
+            if (helper(board, word, curr + 1, nx, ny)) {
+                return true;
+            }
+        }
+        board[i][j] = temp;
+        return false;
+    }
 }
