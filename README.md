@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Devanshu2k/LeetHub/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Devanshu2k/LeetHub/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Devanshu2k/LeetHub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Devanshu2k/LeetHub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Devanshu2k/LeetHub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0054-spiral-matrix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Devanshu2k/LeetHub/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Devanshu2k/LeetHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0074-search-a-2d-matrix) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Devanshu2k/LeetHub/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Devanshu2k/LeetHub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Devanshu2k/LeetHub/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Devanshu2k/LeetHub/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Devanshu2k/LeetHub/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devanshu2k/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
