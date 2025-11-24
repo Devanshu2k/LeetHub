@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Devanshu2k/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devanshu2k/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Devanshu2k/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Devanshu2k/LeetHub/tree/master/0174-dungeon-game) |
 | [0410-split-array-largest-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Devanshu2k/LeetHub/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Devanshu2k/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1236-n-th-tribonacci-number](https://github.com/Devanshu2k/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devanshu2k/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Devanshu2k/LeetHub/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Devanshu2k/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Devanshu2k/LeetHub/tree/master/0800-letter-case-permutation) |
 ## Greedy
 |  |
