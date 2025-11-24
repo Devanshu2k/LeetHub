@@ -1,23 +1,26 @@
 class Solution {
-    int count = 0;
-    Map<String,Integer> map;
+    Map<String, Integer> memo;
 
     public int findTargetSumWays(int[] nums, int target) {
-        map = new HashMap<>();
-        return helper(nums,target,0);
+        memo = new HashMap<>();
+        return dfs(nums, 0, target);
     }
 
-    int helper(int[] nums,int target,int curr){
-        if(curr==nums.length){
-            return target==0?1:0;
+    private int dfs(int[] nums, int idx, int remainingTarget) {
+        if (idx == nums.length) {
+            return remainingTarget == 0 ? 1 : 0;
         }
-        String s = target+":"+curr;
-        if(map.containsKey(s))
-            return map.get(s);
-        
-        int add = helper(nums,target+nums[curr],curr+1);
-        int sub = helper(nums,target-nums[curr],curr+1);
-        map.put(s,add+sub);
-        return add+sub;
+
+        String key = idx + "," + remainingTarget;
+        if (memo.containsKey(key)) return memo.get(key);
+
+        // Choose + sign → reduces remaining target by nums[idx]
+        int plus = dfs(nums, idx + 1, remainingTarget - nums[idx]);
+        // Choose - sign → increases remaining target by nums[idx]
+        int minus = dfs(nums, idx + 1, remainingTarget + nums[idx]);
+
+        int ways = plus + minus;
+        memo.put(key, ways);
+        return ways;
     }
 }
