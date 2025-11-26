@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Devanshu2k/LeetHub/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Devanshu2k/LeetHub/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Devanshu2k/LeetHub/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Devanshu2k/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devanshu2k/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Devanshu2k/LeetHub/tree/master/1036-rotting-oranges) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Devanshu2k/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Devanshu2k/LeetHub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Devanshu2k/LeetHub/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Devanshu2k/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
