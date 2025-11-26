@@ -1,24 +1,19 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        int n = nums.length;
-        int[] result = new int[n - k + 1];
-        Deque<Integer> dq = new ArrayDeque<>();
+    if (nums == null || k <= 0) return new int[0];
+    int n = nums.length;
+    int[] result = new int[n - k + 1];
+    PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[0] - a[0]); // max heap on element value
 
-        for (int i = 0; i < n; i++) {
-            // Remove indices out of the current window
-            while (!dq.isEmpty() && dq.peekFirst() <= i - k) {
-                dq.pollFirst();
+    for (int i = 0; i < n; i++) {
+        pq.offer(new int[]{nums[i], i});
+        if (i >= k - 1) {
+            while (pq.peek()[1] <= i - k) {
+                pq.poll(); // remove elements out of the current window
             }
-            // Remove indices whose values are less than current num
-            while (!dq.isEmpty() && nums[dq.peekLast()] < nums[i]) {
-                dq.pollLast();
-            }
-            dq.offerLast(i);
-            // Add to result when window is full
-            if (i >= k - 1) {
-                result[i - k + 1] = nums[dq.peekFirst()];
-            }
+            result[i - k + 1] = pq.peek()[0]; // max in the current window
         }
-        return result;
     }
+    return result;
+}
 }
