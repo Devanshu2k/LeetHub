@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Devanshu2k/LeetHub/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devanshu2k/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0543-diameter-of-binary-tree) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Devanshu2k/LeetHub/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devanshu2k/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0543-diameter-of-binary-tree) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Devanshu2k/LeetHub/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Devanshu2k/LeetHub/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Devanshu2k/LeetHub/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Devanshu2k/LeetHub/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devanshu2k/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Devanshu2k/LeetHub/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Devanshu2k/LeetHub/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Devanshu2k/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Devanshu2k/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Devanshu2k/LeetHub/tree/master/0739-daily-temperatures) |
@@ -470,9 +474,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Devanshu2k/LeetHub/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devanshu2k/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Devanshu2k/LeetHub/tree/master/0164-maximum-gap) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Devanshu2k/LeetHub/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
