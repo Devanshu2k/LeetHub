@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Devanshu2k/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Devanshu2k/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Devanshu2k/LeetHub/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Devanshu2k/LeetHub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Devanshu2k/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Devanshu2k/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0800-letter-case-permutation](https://github.com/Devanshu2k/LeetHub/tree/master/0800-letter-case-permutation) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Devanshu2k/LeetHub/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0874-backspace-string-compare](https://github.com/Devanshu2k/LeetHub/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Devanshu2k/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Devanshu2k/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Devanshu2k/LeetHub/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1236-n-th-tribonacci-number](https://github.com/Devanshu2k/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devanshu2k/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
