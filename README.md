@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Devanshu2k/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Devanshu2k/LeetHub/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Devanshu2k/LeetHub/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Devanshu2k/LeetHub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/Devanshu2k/LeetHub/tree/master/0800-letter-case-permutation) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Devanshu2k/LeetHub/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0874-backspace-string-compare](https://github.com/Devanshu2k/LeetHub/tree/master/0874-backspace-string-compare) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Devanshu2k/LeetHub/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Devanshu2k/LeetHub/tree/master/0800-letter-case-permutation) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Devanshu2k/LeetHub/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Greedy
 |  |
 | ------- |
