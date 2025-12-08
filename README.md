@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Devanshu2k/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Devanshu2k/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0654-maximum-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Devanshu2k/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Devanshu2k/LeetHub/tree/master/0739-daily-temperatures) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Devanshu2k/LeetHub/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Devanshu2k/LeetHub/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Devanshu2k/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Devanshu2k/LeetHub/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Devanshu2k/LeetHub/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Devanshu2k/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/Devanshu2k/LeetHub/tree/master/0883-car-fleet) |
@@ -495,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshu2k/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Devanshu2k/LeetHub/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Devanshu2k/LeetHub/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Devanshu2k/LeetHub/tree/master/0883-car-fleet) |
 ## Merge Sort
