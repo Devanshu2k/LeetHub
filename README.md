@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Devanshu2k/LeetHub/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Devanshu2k/LeetHub/tree/master/1073-number-of-enclaves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Devanshu2k/LeetHub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Devanshu2k/LeetHub/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Devanshu2k/LeetHub/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Depth-First Search
 |  |
