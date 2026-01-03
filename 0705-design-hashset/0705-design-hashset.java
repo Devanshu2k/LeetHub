@@ -1,20 +1,22 @@
 class MyHashSet {
-    Set<Integer> set;
+    List<Integer> li;
 
     public MyHashSet() {
-        set = new HashSet<>();    
+        li = new ArrayList<>();    
     }
     
     public void add(int key) {
-        set.add(key);
+        if(!li.contains(key))
+            li.add(key);
     }
     
     public void remove(int key) {
-        set.remove(key);
+        if(li.contains(key))
+            li.remove(Integer.valueOf(key));
     }
     
     public boolean contains(int key) {
-        return set.contains(key);
+        return li.contains(key);
     }
 }
 
