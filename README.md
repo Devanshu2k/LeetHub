@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Devanshu2k/LeetHub/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/Devanshu2k/LeetHub/tree/master/0705-design-hashset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Devanshu2k/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Devanshu2k/LeetHub/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Devanshu2k/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Devanshu2k/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Devanshu2k/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0705-design-hashset](https://github.com/Devanshu2k/LeetHub/tree/master/0705-design-hashset) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Devanshu2k/LeetHub/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Devanshu2k/LeetHub/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Devanshu2k/LeetHub/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Devanshu2k/LeetHub/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Devanshu2k/LeetHub/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Devanshu2k/LeetHub/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Devanshu2k/LeetHub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Devanshu2k/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Devanshu2k/LeetHub/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Devanshu2k/LeetHub/tree/master/0705-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Devanshu2k/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/Devanshu2k/LeetHub/tree/master/0705-design-hashset) |
 ## Stack
 |  |
 | ------- |
