@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Devanshu2k/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devanshu2k/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Devanshu2k/LeetHub/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devanshu2k/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/Devanshu2k/LeetHub/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Devanshu2k/LeetHub/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Devanshu2k/LeetHub/tree/master/0217-contains-duplicate) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Devanshu2k/LeetHub/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Devanshu2k/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Devanshu2k/LeetHub/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devanshu2k/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Devanshu2k/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Devanshu2k/LeetHub/tree/master/0287-find-the-duplicate-number) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devanshu2k/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Devanshu2k/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0410-split-array-largest-sum) |
