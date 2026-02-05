@@ -1,19 +1,29 @@
 class Solution {
     public int findUnsortedSubarray(int[] nums) {
         int n = nums.length;
-        int[] temp = new int[n];
-        for(int i=0;i<n;i++)
-            temp[i]=nums[i];
-        Arrays.sort(temp);
-        int l = 0;
-        int r = n-1;
-        while(l<r && temp[l]==nums[l])
-            l++;
-        while(l<r && temp[r]==nums[r])
-            r--;
-        if(r==l)
-            return 0;
-        return r-l+1;
-                
+        
+        int left = -1;
+        int right = -2;
+
+        int max = nums[0];
+        int i = 0;
+        while(i!=n){
+            if(nums[i]<max)
+                right = i;
+            if(nums[i]>max)
+                max = nums[i];
+            i++;
+        }
+        i=n-1;
+        max = nums[i];
+        while(i>=0){
+            if(nums[i]>max)
+                left = i;
+            if(nums[i]<max)
+                max = nums[i];
+            i--;
+        }
+
+        return right-left+1;
     }
 }
