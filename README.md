@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Devanshu2k/LeetHub/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Devanshu2k/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devanshu2k/LeetHub/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Devanshu2k/LeetHub/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Devanshu2k/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshu2k/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Devanshu2k/LeetHub/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Devanshu2k/LeetHub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Devanshu2k/LeetHub/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Devanshu2k/LeetHub/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Devanshu2k/LeetHub/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Devanshu2k/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Devanshu2k/LeetHub/tree/master/0242-valid-anagram) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Devanshu2k/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devanshu2k/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Devanshu2k/LeetHub/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Devanshu2k/LeetHub/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Devanshu2k/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Devanshu2k/LeetHub/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devanshu2k/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
