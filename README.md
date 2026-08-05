@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Devanshu2k/LeetHub/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devanshu2k/LeetHub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Devanshu2k/LeetHub/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Devanshu2k/LeetHub/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devanshu2k/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
