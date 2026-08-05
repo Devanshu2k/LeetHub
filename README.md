@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Devanshu2k/LeetHub/tree/master/1073-number-of-enclaves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Devanshu2k/LeetHub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Devanshu2k/LeetHub/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Devanshu2k/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devanshu2k/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Devanshu2k/LeetHub/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Depth-First Search
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Devanshu2k/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/Devanshu2k/LeetHub/tree/master/1236-n-th-tribonacci-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Devanshu2k/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devanshu2k/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Devanshu2k/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/Devanshu2k/LeetHub/tree/master/0800-letter-case-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Devanshu2k/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
 | ------- |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Devanshu2k/LeetHub/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Devanshu2k/LeetHub/tree/master/0800-letter-case-permutation) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Devanshu2k/LeetHub/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Devanshu2k/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Greedy
 |  |
 | ------- |
@@ -577,4 +581,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Devanshu2k/LeetHub/tree/master/0912-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Devanshu2k/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Devanshu2k/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
