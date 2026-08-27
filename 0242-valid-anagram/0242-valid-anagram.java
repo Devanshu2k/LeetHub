@@ -1,15 +1,22 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        int[] freq1 = new int[26];
-        int[] freq2 = new int[26];
+        if(s.length()!=t.length())
+            return false;
+        
+        Map<Character,Integer> smap = new HashMap<>();
+        Map<Character,Integer> tmap = new HashMap<>();
 
-        for(int i=0; i<s.length(); i++) {
-            freq1[s.charAt(i)-'a']++;
-        }
-        for(int i=0; i<t.length(); i++) {
-            freq2[t.charAt(i)-'a']++;
+        for(int i=0;i<s.length();i++){
+            char c = s.charAt(i);
+            smap.put(c,smap.getOrDefault(c,0)+1);
+            c = t.charAt(i);
+            tmap.put(c,tmap.getOrDefault(c,0)+1);
         }
 
-        return Arrays.equals(freq1, freq2);
+        for(char k:smap.keySet()){
+            if(!tmap.containsKey(k) || !tmap.get(k).equals(smap.get(k)))
+                return false;
+        }
+        return true;
     }
 }
