@@ -3,18 +3,15 @@ class Solution {
         if(s.length()!=t.length())
             return false;
         
-        Map<Character,Integer> smap = new HashMap<>();
-        Map<Character,Integer> tmap = new HashMap<>();
+        int[] arr = new int[26];
 
         for(int i=0;i<s.length();i++){
-            char c = s.charAt(i);
-            smap.put(c,smap.getOrDefault(c,0)+1);
-            c = t.charAt(i);
-            tmap.put(c,tmap.getOrDefault(c,0)+1);
+            arr[s.charAt(i)-'a']++;
+            arr[t.charAt(i)-'a']--;
         }
 
-        for(char k:smap.keySet()){
-            if(!tmap.containsKey(k) || !tmap.get(k).equals(smap.get(k)))
+        for(int i:arr){
+            if (i != 0)
                 return false;
         }
         return true;
